@@ -5,9 +5,6 @@ build:
   tools:
     python: "3.9"
 
-sphinx:
-  configuration: docs/conf.py  # Only needed if using Sphinx (ignore for MkDocs)
-
 mkdocs:
   configuration: mkdocs.yml  # This is required for MkDocs-based documentation
 
