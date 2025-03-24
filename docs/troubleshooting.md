@@ -7,14 +7,14 @@ If your badge isn't showing up or doesn't look right, here are a few common issu
 #### 🟡 **Badge Not Appearing**
 
 - **Incorrect URL Matching**  
-  Make sure all relevant PDP or landing page paths are included in the snippet’s `pageRules`.  
+  Make sure all relevant request paths are included in the snippet.  
   > For example, double-check if it's `/products` vs `/product`, or `/collections/products` vs `/products`.
 
-- **Missing Product Data**  
-  The badge will only render if the product has associated clinician share data. Ensure the product is correctly registered in our system.
+- **Missing or Incorrect Product Data**  
+  The badge will render based on the product’s `product_id`, so please ensure the correct product is associated with the appropriate ID. If you're unsure, your Solutions Engineer can help confirm this for you.
 
 - **Delayed Script Load**  
-  If the badge script is placed too low in the DOM or loaded asynchronously, try moving it higher or wrapping it in a `DOMContentLoaded` or `window.onload` event.
+  If the badge isn’t showing up, it may be because the script is loading too late in the page’s load sequence. Try moving the script higher in the HTML, or make sure it runs once the page has fully loaded to ensure everything displays correctly.
 
 ---
 
@@ -26,8 +26,11 @@ If your badge isn't showing up or doesn't look right, here are a few common issu
 - **Responsive Layout Conflicts**  
   Inspect how the badge behaves on mobile vs desktop. You might need to adjust margins or use media queries for optimal layout.
 
-- **Custom CSS**  
-  You can override or extend our default styles with your own class targeting. If needed, [contact our team](mailto:dev-support@frontrowmd.com) for help with custom styling.
+ - **Custom CSS**  
+  While it is technically possible to override or extend our default styles using your own class targeting, we **strongly advise against making custom CSS changes**. Our current badge design is the result of extensive research and testing across dozens of health brands, and we’ve optimized it specifically to maximize visibility, trust, and conversions. 
+
+  That said, if you have a specific use case you’d like to discuss, feel free to [contact our team](mailto:dev-support@frontrowmd.com).
+
 
 ---
 
@@ -39,8 +42,6 @@ If your badge isn't showing up or doesn't look right, here are a few common issu
 - **Console Errors**  
   Open your browser’s developer console and look for red error messages. These often point to missing data, blocked resources, or typos in configuration.
 
-- **Multiple Snippet Loads**  
-  Ensure the script is only loaded once per page. Duplicates can lead to inconsistent behavior.
 
 ---
 
@@ -50,6 +51,6 @@ If you've checked all the above and the badge still isn't working, [reach out to
 
 - A link to the PDP
 - A screenshot or screen recording
-- Your integration snippet
+- The code snippet
 
 We’ll get you unblocked ASAP!
