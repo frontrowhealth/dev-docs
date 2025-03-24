@@ -1,4 +1,4 @@
-\[WIP\] Dev docs
+Frontrow Dev docs
 ================
 
 ### **Introduction**
@@ -140,10 +140,3 @@ If you need to modify the product URL in the provided code snippets, follow thes
     
 *   For legal and design reasons, we can not change the copy, font-sizes, etc. besides using your brand name instead of “this product”.However, we can use your branding colors. Email us with the hex codes and our eng team will update it on our end.**Can I add a pdf version to my site?**No, we cannot add a PDF version because the badge needs to be interactive and clickable. This allows shoppers to verify its authenticity in real-time, ensuring they can see up-to-date, verified information. A static PDF would not provide the same level of trust and transparency, which are key factors in driving higher engagement and conversion rates.**Will the badge slow down my site?**No, our solution is highly optimized for load speed. Content is cached and served as static HTML files, ensuring the fastest possible performance without adding significant load time to your site.
     
-
-Ad Creatives + Marketing assets
--------------------------------
-
-*   mention doveras
-    
-*   ads used in amazon listings + product image carousel
