@@ -4,6 +4,8 @@ Build with confidence using real, verified provider data.
 
 FrontrowMD enables brands to showcase clinician-backed validation across their digital experiences — from product badges and reviews to marketing assets.
 
+
+
 ## 🚀 What You Can Do Here
 
 - **Add Badges to Your Site**  
@@ -25,6 +27,6 @@ FrontrowMD enables brands to showcase clinician-backed validation across their d
 
 ## 🛠 Need Help?
 
-Reach out to our team at [dev-support@frontrowmd.com](mailto:dev-support@frontrowmd.com) or check out our [FAQs](./faq.md).
+Reach out to your Solutions Engineer or check out our [FAQs](./faq.md).
 
 Let’s build something trusted.

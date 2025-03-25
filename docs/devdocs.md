@@ -1,4 +1,4 @@
-Frontrow Dev docs
+Implementation
 ================
 
 ### **Introduction**
@@ -73,7 +73,7 @@ If you need to modify the product URL in the provided code snippets, follow thes
 
 ### **Implementation Guide**
 
-*   If you decide to self implement, pls let us know when the badge is live so we can QA…
+*   If you decide to self implement, please let us know when the badge is live so we can QA…
     
     *   **Assisted Implementation**:
         
@@ -123,15 +123,7 @@ If you need to modify the product URL in the provided code snippets, follow thes
 
 ### **QA and Verification Process**
 
-### **Troubleshooting - Why is my badge not appearing on the PDP?**
 
-### Why is the spacing off?
-
-*   **Badge Not Appearing**: Ensure the all your PDP/landing page request paths are included in the snippet. Sometimes it could be simple like “/product**s**” vs “/product” or “/collections/products” vs “/products”
-    
-*   **Styling Issues**: Adjust the CSS or contact our team for assistance with custom styling.
-    
-*   **Script Errors**: Verify the JavaScript file URL is accessible and not blocked by browser or security settings.
     
 
 ### **FAQ**
