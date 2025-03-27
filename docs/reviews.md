@@ -39,8 +39,8 @@ To render the doctor reviews on your product page:
 2. Add the following line **above** your existing customer reviews section:
 
 
-   {% render 'frontrow-doctor-reviews' %}
-   ```
+   `{% render 'frontrow-doctor-reviews' %}`
+ 
 
 ---
 
@@ -53,8 +53,8 @@ If your theme supports **custom Liquid blocks** in the Shopify visual editor:
 3. Paste the same line:
 
 
-   {% render 'frontrow-doctor-reviews' %}
-   ```
+   `{% render 'frontrow-doctor-reviews' %}`
+  
 
 ---
 
