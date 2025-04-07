@@ -15,7 +15,8 @@ To ensure maximum visibility and credibility, we recommend using the **Horizonta
 > ⚠️ **Note**: While we previously offered a **sticker badge** (typically placed in the image carousel), we are currently working on a **new and improved version** of this sticker. We'll share updates as soon as it becomes available. In the meantime, the **Clinician’s Choice embedded badge** remains the recommended option for performance and trust.
 
 
-Doctor Reviews: Clinician-authored qualitative reviews w/o compensation that add depth and authenticity to product endorsements.
+### **Doctor Reviews**
+Clinician-authored qualitative reviews—unpaid and independently written—add authenticity and depth to product endorsements. If you're interested in featuring these reviews, please reach out to your sales representative for more information.
 
 ## **Best Practices**
 
