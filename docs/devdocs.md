@@ -8,12 +8,33 @@ Implementation
 
 Current Offerings: embedded badge + doctor reviews, quantitative data + qualitative doctor reviews, link to goodonya
 
-**Product Page Badges**: To ensure maximum visibility and credibility, the **Award (Sticker)** and the **Horizontally Embedded Badge** must be used together. The sticker serves as a prominent trust signal on top of product image carousels, while the horizontal badge reinforces credibility within the product details. Additionally, a **landing page popup** can be used to further highlight clinician endorsements and showcases the data at the start of or early on in the customer journey..
+### **Product Page Badges**
+
+To ensure maximum visibility and credibility, we recommend using the **Horizontally Embedded Badge** within the product details. Additionally, a **landing page popup** can be used to highlight clinician endorsements earlier in the customer journey.
+
+> ⚠️ **Note**: While we previously offered a **sticker badge** (typically placed in the image carousel), we are currently working on a **new and improved version** of this sticker. We'll share updates as soon as it becomes available. In the meantime, the **Clinician’s Choice embedded badge** remains the recommended option for performance and trust.
+
 
 Doctor Reviews: Clinician-authored qualitative reviews w/o compensation that add depth and authenticity to product endorsements.
 
-Best Practices - maybe results after project falcon + research
-==============================================================
+## **Best Practices**
+
+To ensure optimal performance and credibility, follow these implementation guidelines:
+
+- **Badge Placement**  
+  Place the badge **directly underneath the 5-star review banner** on both **mobile and desktop**.  
+  This placement yields the highest engagement and reinforces trust by pairing customer ratings with verified clinician endorsements.
+
+- **Use the Latest Badge Version**  
+  Always use the **Clinician’s Choice** badge design. This is the **most up-to-date and best-performing** version of the badge.  
+  > If you've seen other versions of the badge, they are outdated. The Clinician’s Choice version has been proven to outperform older designs in user engagement and credibility impact.
+
+- **Landing Page Popups**  
+  Use a landing page popup to highlight clinician endorsements early in the customer journey. This is especially effective for campaign-specific pages or new product launches.
+
+- **Authentic, Unpaid Reviews**  
+  Clinician reviews should be displayed prominently. These are **non-compensated, qualitative reviews** and play a key role in establishing authenticity and trust.
+
 
 ### **Getting Started**
 
@@ -39,24 +60,28 @@ To integrate our Verified Clinician Reviews widget, you’ll need one of the fol
 
 ### **Code Snippets**
 
-Our Verified Clinician Reviews widget can be seamlessly integrated into your website using code snippets that we’ll provide. These snippets are designed to display clinician badges and verified reviews in high visibility locations on your site. if youre unsure about placement, check in with frontrow team - but also we will give them our suggestion so they can reference already
+Our Verified Clinician shares widget can be seamlessly integrated into your website using code snippets that we’ll provide. These snippets are designed to display clinician badges and verified reviews in high visibility locations on your site. if youre unsure about placement, check in with frontrow team - but also we will give them our suggestion so they can reference already
 
 We will share the required snippets directly with you or your developement team,r, along with detailed instructions on where and how to implement them. If you prefer, our team can implement for you by utilizing your Shopify collaborator code.
 
 samples of high level codesnippets - doctor reviews + badge embedded
 
-### Adding to a bundle page
+### **Adding a New Product**
 
-### My PDP request path changed or product name changed
+To add a new product and ensure the badge is implemented correctly:
 
-### Adding the badge to a landing page
+1. **Add the Product to the Upload Sheet**  
+   Locate the product upload spreadsheet you were initially provided. Add your new product(s) following the same format.
 
-### Adding a new product
+2. **Contact Zeke**  
+   Once you've updated the sheet, reach out to **Zeke**—your original point of contact for product uploads. He’ll confirm receipt and ensure everything is formatted correctly.
 
-*   reach out to Frontrow team - Zeke
-    
-*   ask Frontrow team for new product ids or new snippet to add into your snippet
-    
+3. **Approval & Badge Setup**  
+   We’ll review your submission to ensure the product has been **approved and added to our internal library**. Once that’s confirmed, we’ll provide you with the updated code snippet that includes the correct `product_id` and implementation guidance.
+
+> ⚠️ **Please wait for our confirmation before adding the badge to your site.**  
+> This ensures the product has been **QA’d and properly set up for success** and optimal performance.
+
 
 Just modify this section for use cases above and include syntax for next js, html, and liquid
 
@@ -87,7 +112,7 @@ If you need to modify the product URL in the provided code snippets, follow thes
         
         1.  Login to Shopify
             
-        2.  Go to Settings > Users > Security > collab code
+        2.  Go to Settings > Users > Security > collaborator code
             
         3.  Copy and share that code with Frontrow
             
@@ -120,15 +145,21 @@ If you need to modify the product URL in the provided code snippets, follow thes
         
     *   Let FRH team know when badge is live - mostly for us so we can QA
         
-
-### **QA and Verification Process**
-
-
     
 
 ### **FAQ**
 
-*   Snippets should be added to the section of your website where the badge or reviews will appear (e.g., product or provider pages). The best implementation strategy is to add both the sticker and the horizontal badge to your product pages. The sticker badge will live in your product’s image carousel, while the horizontal badge appears within the product details to reinforce credibility.
-    
-*   For legal and design reasons, we can not change the copy, font-sizes, etc. besides using your brand name instead of “this product”.However, we can use your branding colors. Email us with the hex codes and our eng team will update it on our end.**Can I add a pdf version to my site?**No, we cannot add a PDF version because the badge needs to be interactive and clickable. This allows shoppers to verify its authenticity in real-time, ensuring they can see up-to-date, verified information. A static PDF would not provide the same level of trust and transparency, which are key factors in driving higher engagement and conversion rates.**Will the badge slow down my site?**No, our solution is highly optimized for load speed. Content is cached and served as static HTML files, ensuring the fastest possible performance without adding significant load time to your site.
-    
+- **Where should I place the badge?**  
+  Snippets should be added to product or provider pages. The **best implementation strategy** is to place the badge **directly underneath the 5-star review banner** on both desktop and mobile.
+
+- **What about the sticker badge?**  
+  We're actively working on a **new version** of the sticker badge. While it's not currently required, we’ll provide guidance and assets when the updated version is ready.
+
+- **Can I customize the badge?**  
+  For legal and design reasons, we can’t change the copy or font sizes. However, we can use your **brand name** instead of “this product” and match your **brand colors**—just send us your hex codes and we’ll update it on our end.
+
+- **Can I add a PDF version to my site?**  
+  No. The badge is meant to be **interactive and clickable** so shoppers can verify its authenticity in real-time. A PDF wouldn’t provide the same level of trust and transparency.
+
+- **Will the badge slow down my site?**  
+  No. The solution is **highly optimized**. Content is cached and served as static HTML for fast performance without significant load time.
