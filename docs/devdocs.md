@@ -6,7 +6,11 @@ Implementation
 *   **Overview**: Our product allows you to showcase a dynamic widget with a modal that highlights the clinicians who have shared your product. This feature builds trust, enhances credibility, and empowers users to make confident, informed decisions when choosing healthcare providers. Whether you’re implementing this on a Shopify store or a custom platform, this guide will walk you through the necessary steps and resources to seamlessly integrate these features.
     
 
-Current Offerings: embedded badge + doctor reviews, quantitative data + qualitative doctor reviews, link to goodonya
+**Current Offerings**:  
+- Embedded badge with dynamic number of clinician shares  
+- Quantitative and qualitative doctor reviews (unpaid, clinician-authored)  
+  - Here is [an example brand with doctor reviews](https://goodonyaorganic.com/products/goodonya-organic-hydration?variant=51816287699316&selling_plan=691826753908) 
+
 
 ### **Product Page Badges**
 
