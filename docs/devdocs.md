@@ -37,7 +37,7 @@ Our product allows you to showcase a dynamic widget with a modal that highlights
 **To share your collaborator code:**
 
 - Login to Shopify  
-- Go to `Settings > Users > Collaborator Request Code`  
+- Go to `Settings > Users > Security > Collaborator Request Code`  
 - Copy and share the code with the Frontrow team
 
 ---
