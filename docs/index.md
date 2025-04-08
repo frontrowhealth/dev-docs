@@ -20,7 +20,8 @@ FrontrowMD enables brands to showcase clinician-backed validation across their d
 ## 📚 Where to Start
 
 - [🎯 Badge Implementation Guide](./devdocs.md)  
-- [🩺 Clinician Reviews Integration](./reviews.md)  
+- [🩺 Clinician Reviews Implementation](./reviews.md)  
+- [Ads & Marketing Materials](./ads.md)
 - [📤 FAQ](./faq.md)
 
 ---

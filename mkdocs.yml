@@ -6,5 +6,6 @@ nav:
   - Home: index.md
   - Implementation: devdocs.md
   - Troubleshooting: troubleshooting.md
+  - Ads: ads.md
   - FAQ: faq.md
 
