@@ -109,14 +109,18 @@ A: Directly below the 5-star review banner on both desktop and mobile
 **Q: What about the sticker badge?**  
 A: It's in progress—we’ll notify you once it's ready
 
-**Q: Can I customize the badge?**  
-A: Yes, you can use your brand name and colors. Fonts and copy are fixed.
+**Q: Can I customize the badge design or wording?**
+
+A: To maintain the trust and recognition associated with our badge, we do not allow changes to the copy, fonts, or overall design. Consistency is key—when shoppers see the same trusted badge across multiple brands, the impact is significantly stronger.
+
+We also hope you understand that making exceptions for individual brands can lead to inconsistencies across our network, ultimately weakening the credibility and effectiveness of the badge.
+
 
 **Q: Can I use a PDF version of the badge?**  
 A: No. It must be interactive and clickable for trust and transparency.
 
 **Q: Will the badge slow down my site?**  
-A: No. The solution is highly optimized and served as cached static HTML
+A: No. The solution is highly optimized and served as cached static HTML.
 
 ---
 
