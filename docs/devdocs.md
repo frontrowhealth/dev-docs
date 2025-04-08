@@ -95,7 +95,7 @@ We will provide JavaScript or HTML snippets based on your platform. Contact your
    Add the new product(s) in the same format that you did for your other products.
 2. **Contact Zeke**  
    He’ll confirm formatting and add the additional products to our library.
-3. **Wait for Confirmation**  
+3. **Update Snippet**  
    We will provide the updated snippet with correct `product_id`
 ⚠️ **Please wait for confirmation before going live**  
 This ensures QA and optimal badge performance.
