@@ -111,6 +111,7 @@ A: Directly below the 5-star review banner on both desktop and mobile
 A: It's in progress—we’ll notify you once it's ready
 
 **Q: Can I customize the badge design or wording?**
+
 A: To maintain the trust and recognition associated with our badge, we do not allow changes to the copy, fonts, or overall design. Consistency is key—when shoppers see the same trusted badge across multiple brands, the impact is significantly stronger.
 
 We also hope you understand that making exceptions for individual brands can lead to inconsistencies across our network, ultimately weakening the credibility and effectiveness of the badge.
