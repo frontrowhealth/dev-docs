@@ -1,4 +1,4 @@
-# Verified Clinician Reviews — Implementation Guide
+# Horizontal Embedded Badge — Implementation Guide
 
 ## 🧠 Overview
 
@@ -30,9 +30,9 @@ Our product allows you to showcase a dynamic widget with a modal that highlights
 
 #### Option 1: Assisted Implementation (Recommended)
 
-1. Grant access via your **Shopify collaborator code**
-2. We complete the setup within **1 hour** (2–3 business days turnaround)
-3. Optionally, schedule a **screenshare call** for real-time setup
+1. Grant access via your **Shopify collaborator code**.
+2. We complete the setup within **1 hour** (2–3 business days turnaround).
+3. Optionally, schedule a **screenshare call** for real-time setup.
 
 **To share your collaborator code:**
 
@@ -58,10 +58,10 @@ Our product allows you to showcase a dynamic widget with a modal that highlights
 
 ### Custom Websites
 
-1. Locate the HTML file where you’d like the badge or reviews to appear  
-2. Paste the corresponding snippet into the desired section  
-3. Test for correct functionality  
-4. Notify the Frontrow team for QA
+1. Locate the HTML file where you’d like the badge or reviews to appear.  
+2. Paste the corresponding snippet into the desired section.  
+3. Test for correct functionality.  
+4. Notify the Frontrow team for QA.
 
 ---
 
@@ -71,12 +71,16 @@ Our product allows you to showcase a dynamic widget with a modal that highlights
 
 We will provide JavaScript or HTML snippets based on your platform. Contact your Solutions Engineer for access.
 
-### Updating Product URL or ID
+### 🔄 Updating the Product URL or ID
+1. **Locate the Product URL**  
+   In the code snippet, look for the part that comes after `/products/`—this represents the specific product on your site.
+2. **Update the Product Path**  
+   Replace the existing product name or path with the correct one that matches your current product.
+3. **Update the `product_id`**  
+   Change the `product_id` value in the snippet to match the correct product. Your Solutions Engineer can provide this ID if you don’t have it.
+4. **Save and Preview**  
+   After updating the URL and ID, save your changes and preview the page to confirm everything displays correctly.
 
-1. **Find the URL Path** in the snippet (usually after `/products/`)
-2. Update to the correct product identifier  
-3. Modify the `product_id` in the script or iframe URL  
-4. Save changes and preview the site  
 
 **Supported platforms:**
 - HTML
@@ -87,17 +91,14 @@ We will provide JavaScript or HTML snippets based on your platform. Contact your
 
 ## ➕ Adding New Products
 
-1. **Update the Upload Sheet**  
-   Add the new product(s) in the same format
-
+1. **Update the Product Upload Sheet**  
+   Add the new product(s) in the same format that you did for your other products.
 2. **Contact Zeke**  
-   He’ll confirm formatting and receive the update
-
+   He’ll confirm formatting and add the additional products to our library.
 3. **Wait for Confirmation**  
    We will provide the updated snippet with correct `product_id`
-
-> ⚠️ **Please wait for confirmation before going live**  
-> This ensures QA and optimal badge performance
+⚠️ **Please wait for confirmation before going live**  
+This ensures QA and optimal badge performance.
 
 ---
 
@@ -110,7 +111,6 @@ A: Directly below the 5-star review banner on both desktop and mobile
 A: It's in progress—we’ll notify you once it's ready
 
 **Q: Can I customize the badge design or wording?**
-
 A: To maintain the trust and recognition associated with our badge, we do not allow changes to the copy, fonts, or overall design. Consistency is key—when shoppers see the same trusted badge across multiple brands, the impact is significantly stronger.
 
 We also hope you understand that making exceptions for individual brands can lead to inconsistencies across our network, ultimately weakening the credibility and effectiveness of the badge.
